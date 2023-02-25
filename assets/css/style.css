@@ -1,0 +1,33 @@
+@font-face {
+    font-family: mypixelfont;
+    src: url(../font/Pixeboy.ttf);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: mypixelfont;
+    background-color: rgb(1, 90, 223);   
+}
+
+/*  fontSize: */
+.xs   {font-size: 0.75rem}
+.sm   {font-size: 0.875rem}
+.base {font-size: 1rem}
+.lg   {font-size: 1.125rem}
+.xl   {font-size: 1.25rem}
+.f2xl  {font-size: 1.5rem}
+.f3xl  {font-size: 1.875rem}
+.f4xl  {font-size: 2.25rem}
+.f5xl  {font-size: 3rem}
+.f6xl  {font-size: 4rem}
+.fs1  {font-size: 1vw}
+.fs2  {font-size: 1.4vw}
+.fs3  {font-size: 1.6vw}
+.fs4  {font-size: 1.8vw}
+.fs5  {font-size: 2vw}
+.fs6  {font-size: 2.2vw}
+.fs7  {font-size: 2.4vw}
+.fs8  {font-size: 2.6vw}
