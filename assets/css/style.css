@@ -12,6 +12,10 @@ body {
     background-color: rgb(1, 90, 223);   
 }
 
+a{
+    text-decoration:none; 
+}
+
 /*  fontSize: */
 .xs   {font-size: 0.75rem}
 .sm   {font-size: 0.875rem}
@@ -31,3 +35,10 @@ body {
 .fs6  {font-size: 2.2vw}
 .fs7  {font-size: 2.4vw}
 .fs8  {font-size: 2.6vw}
+
+.pd1{
+    padding-top: 2%;
+}
+
+.close{
+}
